@@ -1,0 +1,38 @@
+_repo: Runoilijan-salaisuus_74403
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Palola, Eino
+    birthdate: 1885
+    deathdate: 1951
+    gutenberg_agent_id: '42797'
+    url: http://www.gutenberg.org/2009/agents/42797
+    wikipedia: https://fi.wikipedia.org/wiki/Eino_Palola
+creator:
+  author:
+    agent_name: Fogazzaro, Antonio
+    birthdate: 1842
+    deathdate: 1911
+    gutenberg_agent_id: '2759'
+    url: http://www.gutenberg.org/2009/agents/2759
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Antonio_Fogazzaro
+    - https://it.wikipedia.org/wiki/Antonio_Fogazzaro
+description: ''
+gutenberg_issued: '2024-09-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74403'
+language: fi
+pgterms:marc905: 20240827124527fogazzaro
+pgterms:marc906: '1914'
+pgterms:marc907: FI
+production_note: Tuula Temonen and Tapio Riikonen
+publication_note: '  $aPorvoo :$bWSOY, $c1914.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Runoilijan salaisuus
+url: http://www.gutenberg.org/ebooks/74403
