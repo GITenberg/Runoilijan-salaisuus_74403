@@ -8,6 +8,9 @@ contributor:
     gutenberg_agent_id: '42797'
     url: http://www.gutenberg.org/2009/agents/42797
     wikipedia: https://fi.wikipedia.org/wiki/Eino_Palola
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Fogazzaro, Antonio
@@ -19,6 +22,8 @@ creator:
     - https://en.wikipedia.org/wiki/Antonio_Fogazzaro
     - https://it.wikipedia.org/wiki/Antonio_Fogazzaro
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74403#Runoilijan-salaisuus
 gutenberg_issued: '2024-09-11'
 gutenberg_type: Text
 identifiers:
